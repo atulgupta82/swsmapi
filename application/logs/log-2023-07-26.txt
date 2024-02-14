@@ -1,0 +1,4 @@
+ERROR - 2023-07-26 11:16:08 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 119
+ERROR - 2023-07-26 11:52:40 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-07-26 11:52:59 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-07-26 17:18:18 --> 404 Page Not Found: Faviconico/index

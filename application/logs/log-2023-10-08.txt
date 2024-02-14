@@ -1,0 +1,22 @@
+ERROR - 2023-10-08 06:48:10 --> 404 Page Not Found: /index
+ERROR - 2023-10-08 06:48:10 --> 404 Page Not Found: /index
+ERROR - 2023-10-08 12:01:02 --> 404 Page Not Found: Sanction_order/disbursment_invoice_get
+ERROR - 2023-10-08 12:01:04 --> 404 Page Not Found: Sanction_order/disbursment_invoice_get
+ERROR - 2023-10-08 12:01:16 --> 404 Page Not Found: Sanction_order/disbursment_invoice_get
+ERROR - 2023-10-08 12:01:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-10-08 12:01:23 --> 404 Page Not Found: Sanction_order/disbursment_invoice
+ERROR - 2023-10-08 13:16:44 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 967
+ERROR - 2023-10-08 13:16:44 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-08 13:16:45 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 967
+ERROR - 2023-10-08 13:16:45 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-08 18:08:45 --> Severity: error --> Exception: Undefined constant "NIMBUS_URL" /var/www/devapi.uatesting.in/application/controllers/Users.php 318
+ERROR - 2023-10-08 18:24:00 --> Severity: error --> Exception: Undefined constant "NIMBUS_URL" /var/www/devapi.uatesting.in/application/controllers/Users.php 319
+ERROR - 2023-10-08 19:04:55 --> Severity: error --> Exception: syntax error, unexpected single-quoted string "otp", expecting "]" /var/www/devapi.uatesting.in/application/controllers/Users.php 221
+ERROR - 2023-10-08 19:06:44 --> Severity: error --> Exception: syntax error, unexpected single-quoted string "otp", expecting "]" /var/www/devapi.uatesting.in/application/controllers/Users.php 221
+ERROR - 2023-10-08 19:08:27 --> Severity: Warning --> Undefined array key "otpNumber" /var/www/devapi.uatesting.in/application/controllers/Users.php 281
+ERROR - 2023-10-08 19:11:47 --> Severity: Warning --> Undefined array key "otpNumber" /var/www/devapi.uatesting.in/application/controllers/Users.php 281
+ERROR - 2023-10-08 19:13:56 --> Severity: Warning --> Undefined array key "otpNumber" /var/www/devapi.uatesting.in/application/controllers/Users.php 281
+ERROR - 2023-10-08 19:14:08 --> Severity: Warning --> Undefined array key "otpNumber" /var/www/devapi.uatesting.in/application/controllers/Users.php 281
+ERROR - 2023-10-08 19:14:25 --> Severity: Warning --> Undefined array key "otpNumber" /var/www/devapi.uatesting.in/application/controllers/Users.php 281
+ERROR - 2023-10-08 19:15:21 --> Severity: Warning --> Undefined array key "otpNumber" /var/www/devapi.uatesting.in/application/controllers/Users.php 281
+ERROR - 2023-10-08 19:15:26 --> Severity: Warning --> Undefined array key "otpNumber" /var/www/devapi.uatesting.in/application/controllers/Users.php 281

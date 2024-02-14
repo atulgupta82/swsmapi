@@ -1,0 +1,13 @@
+ERROR - 2023-07-22 10:45:56 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 239
+ERROR - 2023-07-22 10:45:56 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 240
+ERROR - 2023-07-22 10:45:56 --> Severity: Warning --> Attempt to read property "budget" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 241
+ERROR - 2023-07-22 10:45:56 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 242
+ERROR - 2023-07-22 14:51:54 --> 404 Page Not Found: /index
+ERROR - 2023-07-22 22:57:27 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-07-22 22:57:27 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-22 22:57:51 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-07-22 22:57:51 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-22 23:00:40 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-07-22 23:00:40 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-22 23:02:51 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 260
+ERROR - 2023-07-22 23:03:20 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 260

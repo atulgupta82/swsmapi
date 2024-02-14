@@ -1,0 +1,78 @@
+ERROR - 2024-01-01 00:14:55 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-01-01 01:43:54 --> 404 Page Not Found: /index
+ERROR - 2024-01-01 12:57:43 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-01 12:57:43 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-01 12:57:43 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-01 12:59:12 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:12 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:12 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:12 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:12 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:12 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:12 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:12 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:16 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:16 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:16 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:16 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:17 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:17 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:17 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:17 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:23 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-01 12:59:23 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-01 12:59:23 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-01 12:59:23 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-01 12:59:34 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:34 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:34 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:34 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:34 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:34 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 12:59:34 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 12:59:34 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 14:40:23 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-01 14:40:23 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-01 14:40:23 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-01 14:40:44 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-01 14:40:44 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-01 14:40:44 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-01 17:12:42 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-01 17:12:42 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-01 17:12:42 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-01 17:12:51 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:12:51 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:12:51 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:12:51 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:12:51 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:12:51 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:12:51 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:12:51 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:04 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:04 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:04 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:04 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:04 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:04 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:04 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:04 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:16 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:16 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:16 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:16 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:16 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:16 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:16 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:16 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:33 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:33 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:33 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:33 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:33 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:33 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:13:33 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-01 17:13:33 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-01 17:14:47 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-01 17:14:47 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-01 17:14:47 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-01 23:15:19 --> 404 Page Not Found: /index

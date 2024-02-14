@@ -1,0 +1,21 @@
+ERROR - 2023-08-18 12:49:18 --> 404 Page Not Found: /index
+ERROR - 2023-08-18 16:05:56 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 355
+ERROR - 2023-08-18 16:05:56 --> Severity: Warning --> Undefined property: stdClass::$tds_it_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 412
+ERROR - 2023-08-18 16:05:56 --> Severity: Warning --> Undefined property: stdClass::$s_gst_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 413
+ERROR - 2023-08-18 16:05:56 --> Severity: Warning --> Undefined property: stdClass::$c_gst_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 414
+ERROR - 2023-08-18 16:05:56 --> Severity: Warning --> Undefined property: stdClass::$i_gst_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 415
+ERROR - 2023-08-18 16:05:56 --> Severity: Warning --> Undefined property: stdClass::$other_deduction /var/www/api.uatesting.in/application/controllers/Schemes.php 416
+ERROR - 2023-08-18 19:26:16 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 355
+ERROR - 2023-08-18 19:26:16 --> Severity: Warning --> Undefined property: stdClass::$tds_it_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 412
+ERROR - 2023-08-18 19:26:16 --> Severity: Warning --> Undefined property: stdClass::$s_gst_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 413
+ERROR - 2023-08-18 19:26:16 --> Severity: Warning --> Undefined property: stdClass::$c_gst_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 414
+ERROR - 2023-08-18 19:26:16 --> Severity: Warning --> Undefined property: stdClass::$i_gst_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 415
+ERROR - 2023-08-18 19:26:16 --> Severity: Warning --> Undefined property: stdClass::$other_deduction /var/www/api.uatesting.in/application/controllers/Schemes.php 416
+ERROR - 2023-08-18 19:27:09 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 355
+ERROR - 2023-08-18 19:27:09 --> Severity: Warning --> Undefined property: stdClass::$tds_it_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 412
+ERROR - 2023-08-18 19:27:09 --> Severity: Warning --> Undefined property: stdClass::$s_gst_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 413
+ERROR - 2023-08-18 19:27:09 --> Severity: Warning --> Undefined property: stdClass::$c_gst_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 414
+ERROR - 2023-08-18 19:27:09 --> Severity: Warning --> Undefined property: stdClass::$i_gst_amount /var/www/api.uatesting.in/application/controllers/Schemes.php 415
+ERROR - 2023-08-18 19:27:09 --> Severity: Warning --> Undefined property: stdClass::$other_deduction /var/www/api.uatesting.in/application/controllers/Schemes.php 416
+ERROR - 2023-08-18 19:41:32 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 119
+ERROR - 2023-08-18 19:46:56 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 264

@@ -1,0 +1,85 @@
+ERROR - 2023-07-21 08:13:26 --> 404 Page Not Found: /index
+ERROR - 2023-07-21 09:53:41 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 120
+ERROR - 2023-07-21 09:53:41 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 09:53:41 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 10:17:46 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 120
+ERROR - 2023-07-21 10:17:46 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 10:17:46 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 10:27:04 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 120
+ERROR - 2023-07-21 10:27:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 10:27:04 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 10:29:01 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 120
+ERROR - 2023-07-21 10:29:01 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 10:29:01 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 16:04:18 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 221
+ERROR - 2023-07-21 16:04:18 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 16:04:18 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 176
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 205
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 69
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined array key "mobile" /var/www/api.uatesting.in/application/models/Users_model.php 72
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 75
+ERROR - 2023-07-21 17:46:44 --> Severity: Warning --> Undefined array key "user_id" /var/www/api.uatesting.in/application/models/Users_model.php 78
+ERROR - 2023-07-21 17:47:41 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 176
+ERROR - 2023-07-21 17:47:41 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-21 17:47:41 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-21 17:47:41 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-21 17:47:41 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-21 17:47:41 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 205
+ERROR - 2023-07-21 17:48:43 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 176
+ERROR - 2023-07-21 17:48:43 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-21 17:48:43 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-21 17:48:43 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-21 17:48:43 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-21 17:48:43 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 205
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 176
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 205
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 69
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined array key "mobile" /var/www/api.uatesting.in/application/models/Users_model.php 72
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 75
+ERROR - 2023-07-21 17:49:09 --> Severity: Warning --> Undefined array key "user_id" /var/www/api.uatesting.in/application/models/Users_model.php 78
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 176
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 205
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 69
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined array key "mobile" /var/www/api.uatesting.in/application/models/Users_model.php 72
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 75
+ERROR - 2023-07-21 17:49:25 --> Severity: Warning --> Undefined array key "user_id" /var/www/api.uatesting.in/application/models/Users_model.php 78
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 176
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 205
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 69
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined array key "mobile" /var/www/api.uatesting.in/application/models/Users_model.php 72
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 75
+ERROR - 2023-07-21 17:49:28 --> Severity: Warning --> Undefined array key "user_id" /var/www/api.uatesting.in/application/models/Users_model.php 78
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 176
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 205
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 69
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined array key "mobile" /var/www/api.uatesting.in/application/models/Users_model.php 72
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 75
+ERROR - 2023-07-21 17:51:55 --> Severity: Warning --> Undefined array key "user_id" /var/www/api.uatesting.in/application/models/Users_model.php 78
+ERROR - 2023-07-21 20:27:43 --> Severity: Warning --> foreach() argument must be of type array|object, string given /var/www/api.uatesting.in/application/controllers/Schemes.php 78
+ERROR - 2023-07-21 20:27:43 --> Severity: Warning --> foreach() argument must be of type array|object, string given /var/www/api.uatesting.in/application/controllers/Schemes.php 100
+ERROR - 2023-07-21 20:27:43 --> Severity: error --> Exception: Cannot access offset of type string on string /var/www/api.uatesting.in/application/controllers/Schemes.php 111
+ERROR - 2023-07-21 20:36:13 --> Severity: Warning --> foreach() argument must be of type array|object, string given /var/www/api.uatesting.in/application/controllers/Schemes.php 78
+ERROR - 2023-07-21 20:36:13 --> Severity: Warning --> foreach() argument must be of type array|object, string given /var/www/api.uatesting.in/application/controllers/Schemes.php 100
+ERROR - 2023-07-21 20:36:13 --> Severity: error --> Exception: Cannot access offset of type string on string /var/www/api.uatesting.in/application/controllers/Schemes.php 111
+ERROR - 2023-07-21 20:48:02 --> 404 Page Not Found: Faviconico/index

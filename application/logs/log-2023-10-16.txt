@@ -1,0 +1,25 @@
+ERROR - 2023-10-16 19:23:58 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 19:23:58 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 19:24:11 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 19:24:11 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 19:33:15 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 19:33:15 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 20:51:13 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 20:51:13 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 20:51:17 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 20:51:17 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 20:56:01 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 20:56:01 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 20:56:02 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 20:56:02 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 21:02:21 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 21:02:21 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 21:03:19 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/devapi.uatesting.in/application/controllers/Schemes.php 999
+ERROR - 2023-10-16 21:03:19 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 21:03:19 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 21:03:20 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 21:03:20 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 21:03:50 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 21:03:50 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-16 21:03:50 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-16 21:03:50 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969

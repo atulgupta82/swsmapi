@@ -1,0 +1,247 @@
+ERROR - 2023-08-07 01:21:55 --> 404 Page Not Found: /index
+ERROR - 2023-08-07 03:45:57 --> 404 Page Not Found: /index
+ERROR - 2023-08-07 11:05:09 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 117
+ERROR - 2023-08-07 11:08:41 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-07 16:22:45 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-08-07 16:24:48 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-08-07 16:33:14 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 119
+ERROR - 2023-08-07 16:44:45 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:44:45 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:44:45 --> Severity: Warning --> Undefined property: stdClass::$username /var/www/api.uatesting.in/application/controllers/Users.php 198
+ERROR - 2023-08-07 16:44:45 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:44:45 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:44:45 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:44:45 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:44:45 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:45:21 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:45:21 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:45:21 --> Severity: Warning --> Undefined property: stdClass::$username /var/www/api.uatesting.in/application/controllers/Users.php 198
+ERROR - 2023-08-07 16:45:21 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:45:21 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:45:21 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:45:21 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:45:21 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:45:48 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:45:48 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:45:48 --> Severity: Warning --> Undefined property: stdClass::$username /var/www/api.uatesting.in/application/controllers/Users.php 198
+ERROR - 2023-08-07 16:45:48 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:45:48 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:45:48 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:45:48 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:45:48 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:47:08 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:47:08 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:47:08 --> Severity: Warning --> Undefined property: stdClass::$username /var/www/api.uatesting.in/application/controllers/Users.php 198
+ERROR - 2023-08-07 16:47:08 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:47:08 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:47:08 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:47:08 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:47:08 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:47:21 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:47:21 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:47:21 --> Severity: Warning --> Undefined property: stdClass::$username /var/www/api.uatesting.in/application/controllers/Users.php 198
+ERROR - 2023-08-07 16:47:21 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:47:21 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:47:21 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:47:21 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:47:21 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:47:24 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 117
+ERROR - 2023-08-07 16:48:15 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:48:15 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:48:15 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:48:15 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:48:15 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:48:15 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:48:15 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:48:15 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-08-07 16:48:15 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 71
+ERROR - 2023-08-07 16:48:36 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:48:36 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:48:36 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:48:36 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:48:36 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:48:36 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:48:36 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:48:45 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-08-07 16:48:59 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:48:59 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:48:59 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:48:59 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:48:59 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:48:59 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:48:59 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:48:59 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-08-07 16:48:59 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 71
+ERROR - 2023-08-07 16:50:33 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:50:33 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:50:33 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:50:33 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:50:33 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:50:33 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:50:33 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:50:33 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-08-07 16:50:33 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 71
+ERROR - 2023-08-07 16:51:46 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:51:46 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:51:46 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:51:46 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:51:46 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:51:46 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:51:46 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:51:46 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-08-07 16:51:46 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 71
+ERROR - 2023-08-07 16:51:52 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:51:52 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:51:52 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:51:52 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:51:52 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:51:52 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:51:52 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:51:52 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-08-07 16:51:52 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 71
+ERROR - 2023-08-07 16:52:22 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:52:22 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:52:22 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:52:22 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:52:22 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:52:22 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:52:22 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:52:22 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-08-07 16:52:22 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 71
+ERROR - 2023-08-07 16:52:43 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:52:43 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:52:43 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:52:43 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:52:43 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:52:43 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:52:43 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:53:19 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:53:19 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:53:19 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:53:19 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:53:19 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:53:19 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:53:19 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:53:19 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-08-07 16:53:19 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 71
+ERROR - 2023-08-07 16:54:47 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:54:47 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:54:47 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:54:47 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:54:47 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:54:47 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:54:47 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:55:05 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:55:05 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:55:05 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:55:05 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:55:05 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:55:05 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:55:05 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:55:18 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:55:18 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:55:18 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:55:18 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:55:18 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:55:18 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:55:18 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:56:40 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:56:40 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:56:40 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:56:40 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:56:40 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:56:40 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:56:40 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:58:03 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:58:03 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:58:03 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:58:03 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:58:03 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:58:03 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:58:03 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 16:58:45 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 16:58:45 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 16:58:45 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 16:58:45 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 16:58:45 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 16:58:45 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 16:58:45 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 17:06:33 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 17:06:33 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 17:06:33 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 17:06:33 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 17:06:33 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 17:06:33 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 17:06:33 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 17:07:18 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 178
+ERROR - 2023-08-07 17:07:18 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 17:07:18 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 17:07:18 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 17:07:18 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 209
+ERROR - 2023-08-07 17:07:18 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 17:07:18 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 17:10:58 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 17:10:58 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 17:10:58 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 17:10:58 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 17:10:58 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 17:11:08 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 17:11:08 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 17:11:08 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 17:11:08 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 17:11:08 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 17:11:29 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 17:11:29 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 17:11:29 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 17:11:29 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 17:11:29 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 17:11:49 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 17:11:49 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 17:11:49 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 17:11:49 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 17:11:49 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 17:11:49 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 73
+ERROR - 2023-08-07 17:12:19 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 17:12:19 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 17:12:19 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 17:12:19 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 17:12:19 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 17:12:19 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 73
+ERROR - 2023-08-07 17:13:18 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 195
+ERROR - 2023-08-07 17:13:18 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-08-07 17:13:18 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 206
+ERROR - 2023-08-07 17:13:18 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 212
+ERROR - 2023-08-07 17:13:18 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-08-07 17:13:18 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Users.php 219
+ERROR - 2023-08-07 17:13:18 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 73
+ERROR - 2023-08-07 17:29:55 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-07 18:17:31 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:17:31 --> Severity: error --> Exception: Object of class stdClass could not be converted to string /var/www/api.uatesting.in/system/database/DB_driver.php 1477
+ERROR - 2023-08-07 18:19:00 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:19:43 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:20:02 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:20:43 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:21:10 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:21:37 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:21:58 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:22:13 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:22:41 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:22:53 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:23:30 --> Severity: Warning --> Attempt to read property "added_by" on array /var/www/api.uatesting.in/application/controllers/Users.php 245
+ERROR - 2023-08-07 18:24:28 --> Severity: error --> Exception: Object of class stdClass could not be converted to string /var/www/api.uatesting.in/system/database/DB_driver.php 1477
+ERROR - 2023-08-07 18:27:40 --> Severity: error --> Exception: Object of class stdClass could not be converted to string /var/www/api.uatesting.in/system/database/DB_driver.php 1477
+ERROR - 2023-08-07 19:50:15 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-07 20:07:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-07 21:50:58 --> Severity: error --> Exception: Too few arguments to function Utils::districts_get(), 0 passed in /var/www/api.uatesting.in/application/libraries/REST_Controller.php on line 793 and exactly 1 expected /var/www/api.uatesting.in/application/controllers/Utils.php 128
+ERROR - 2023-08-07 23:53:09 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 117
+ERROR - 2023-08-07 23:53:09 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 124
+ERROR - 2023-08-07 23:53:09 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 128
+ERROR - 2023-08-07 23:53:09 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 136
+ERROR - 2023-08-07 23:53:09 --> Severity: Warning --> Undefined array key "letter_head" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 140
+ERROR - 2023-08-07 23:53:09 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 144
+ERROR - 2023-08-07 23:53:19 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 117
+ERROR - 2023-08-07 23:53:19 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 124
+ERROR - 2023-08-07 23:53:19 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 128
+ERROR - 2023-08-07 23:53:19 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 136
+ERROR - 2023-08-07 23:53:19 --> Severity: Warning --> Undefined array key "letter_head" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 140
+ERROR - 2023-08-07 23:53:19 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 144

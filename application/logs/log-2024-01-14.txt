@@ -1,0 +1,68 @@
+ERROR - 2024-01-14 04:07:19 --> 404 Page Not Found: /index
+ERROR - 2024-01-14 07:46:03 --> 404 Page Not Found: /index
+ERROR - 2024-01-14 12:08:42 --> 404 Page Not Found: v2/Invoice/invoice_tds
+ERROR - 2024-01-14 18:52:49 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-14 18:52:49 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-14 18:52:49 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-14 18:54:35 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/devapi.uatesting.in/application/controllers/v2/Invoice.php 94
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:32 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:46 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-14 19:11:46 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-14 19:11:46 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-14 19:11:46 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-14 19:11:46 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-14 19:11:46 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-14 19:11:46 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2024-01-14 19:11:46 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:11:49 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:19:45 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:12 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:12 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:12 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:12 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:12 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:12 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:12 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:12 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:13 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 19:52:13 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2024-01-14 20:37:50 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-14 20:37:50 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-14 20:37:50 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-14 20:51:05 --> Severity: Warning --> Undefined property: stdClass::$invoices /var/www/devapi.uatesting.in/application/models/v2/Invoice_model.php 12
+ERROR - 2024-01-14 20:51:05 --> Severity: Warning --> foreach() argument must be of type array|object, null given /var/www/devapi.uatesting.in/application/models/v2/Invoice_model.php 12
+ERROR - 2024-01-14 22:13:01 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-14 22:13:01 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-14 22:13:01 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-14 22:29:09 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-14 22:29:09 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-14 22:29:09 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-14 22:31:02 --> Severity: Warning --> Undefined property: stdClass::$invoices /var/www/devapi.uatesting.in/application/models/v2/Invoice_model.php 12
+ERROR - 2024-01-14 22:31:02 --> Severity: Warning --> foreach() argument must be of type array|object, null given /var/www/devapi.uatesting.in/application/models/v2/Invoice_model.php 12

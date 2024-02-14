@@ -1,0 +1,35 @@
+ERROR - 2023-07-19 03:48:02 --> 404 Page Not Found: /index
+ERROR - 2023-07-19 16:53:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-07-19 16:59:01 --> 404 Page Not Found: /index
+ERROR - 2023-07-19 17:11:57 --> 404 Page Not Found: Utils/financial_year
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 173
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 190
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined array key "mobile" /var/www/api.uatesting.in/application/models/Users_model.php 71
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 74
+ERROR - 2023-07-19 19:20:19 --> Severity: Warning --> Undefined array key "user_id" /var/www/api.uatesting.in/application/models/Users_model.php 77
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 173
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 190
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined array key "mobile" /var/www/api.uatesting.in/application/models/Users_model.php 71
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 74
+ERROR - 2023-07-19 19:39:50 --> Severity: Warning --> Undefined array key "user_id" /var/www/api.uatesting.in/application/models/Users_model.php 77
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 173
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 190
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 193
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 196
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 199
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 202
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined array key "email" /var/www/api.uatesting.in/application/models/Users_model.php 69
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined array key "mobile" /var/www/api.uatesting.in/application/models/Users_model.php 72
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 75
+ERROR - 2023-07-19 19:41:36 --> Severity: Warning --> Undefined array key "user_id" /var/www/api.uatesting.in/application/models/Users_model.php 78
+ERROR - 2023-07-19 19:51:33 --> 404 Page Not Found: Faviconico/index

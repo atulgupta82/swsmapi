@@ -1,0 +1,159 @@
+ERROR - 2023-08-24 10:57:23 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-24 10:57:23 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-24 10:57:26 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-24 10:57:26 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-24 10:57:29 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-24 10:57:29 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-24 10:58:32 --> Severity: Warning --> Undefined property: stdClass::$scheme_id /var/www/api.uatesting.in/application/controllers/Schemes.php 184
+ERROR - 2023-08-24 10:58:32 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-24 10:58:32 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/api.uatesting.in/application/controllers/Schemes.php 186
+ERROR - 2023-08-24 10:58:39 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-24 10:58:39 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-24 11:00:05 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-24 11:00:05 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-24 11:03:06 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-24 11:03:14 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-24 11:04:17 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-24 11:04:17 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-24 11:04:49 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-24 11:04:49 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-24 11:05:37 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-24 11:05:37 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 19:36:27 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 19:36:27 --> Severity: error --> Exception: Object of class stdClass could not be converted to string /var/www/api.uatesting.in/system/database/DB_query_builder.php 2442
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 19:42:48 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 19:42:48 --> Severity: error --> Exception: Object of class stdClass could not be converted to string /var/www/api.uatesting.in/system/database/DB_query_builder.php 2442
+ERROR - 2023-08-24 19:44:08 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice /var/www/api.uatesting.in/system/libraries/Session/drivers/Session_files_driver.php 132
+ERROR - 2023-08-24 19:44:08 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice /var/www/api.uatesting.in/system/libraries/Session/drivers/Session_files_driver.php 292
+ERROR - 2023-08-24 19:44:08 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice /var/www/api.uatesting.in/system/libraries/Session/drivers/Session_files_driver.php 166
+ERROR - 2023-08-24 19:44:08 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice /var/www/api.uatesting.in/system/libraries/Session/drivers/Session_files_driver.php 235
+ERROR - 2023-08-24 19:44:08 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice /var/www/api.uatesting.in/system/libraries/Session/drivers/Session_files_driver.php 315
+ERROR - 2023-08-24 19:44:08 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice /var/www/api.uatesting.in/system/libraries/Session/drivers/Session_files_driver.php 356
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 282
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 294
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 304
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 314
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 315
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 316
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 317
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 375
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> session_set_save_handler(): Session save handler cannot be changed after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 110
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> session_start(): Session cannot be started after headers have already been sent /var/www/api.uatesting.in/system/libraries/Session/Session.php 143
+ERROR - 2023-08-24 19:44:08 --> Severity: 8192 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/api.uatesting.in/application/libraries/REST_Controller.php 1050
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /var/www/api.uatesting.in/system/core/Exceptions.php:271) /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 11
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /var/www/api.uatesting.in/system/core/Exceptions.php:271) /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 12
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 19:44:08 --> Severity: 8192 --> is_uploaded_file(): Passing null to parameter #1 ($filename) of type string is deprecated /var/www/api.uatesting.in/system/libraries/Upload.php 412
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 19:44:08 --> Severity: 8192 --> is_uploaded_file(): Passing null to parameter #1 ($filename) of type string is deprecated /var/www/api.uatesting.in/system/libraries/Upload.php 412
+ERROR - 2023-08-24 19:44:08 --> Severity: error --> Exception: Object of class stdClass could not be converted to string /var/www/api.uatesting.in/system/database/DB_query_builder.php 2442
+ERROR - 2023-08-24 19:44:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /var/www/api.uatesting.in/system/core/Exceptions.php:271) /var/www/api.uatesting.in/system/core/Common.php 570
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 20:15:19 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 20:15:19 --> Severity: error --> Exception: Object of class stdClass could not be converted to string /var/www/api.uatesting.in/system/database/DB_query_builder.php 2442
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 20:15:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 20:21:06 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 20:21:06 --> Severity: error --> Exception: Object of class stdClass could not be converted to string /var/www/api.uatesting.in/system/database/DB_driver.php 1477
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 20:23:20 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 20:23:47 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 20:24:18 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 20:25:05 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-08-24 20:26:59 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-08-24 20:33:36 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Beneficiary.php 190

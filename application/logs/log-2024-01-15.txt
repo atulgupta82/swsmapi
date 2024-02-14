@@ -1,0 +1,13 @@
+ERROR - 2024-01-15 15:34:33 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-15 15:34:33 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-15 15:34:33 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-15 23:14:32 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-15 23:14:32 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-15 23:14:32 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-15 23:26:11 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-15 23:26:11 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-15 23:26:11 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-15 23:26:45 --> Severity: Warning --> Undefined property: stdClass::$invoices /var/www/devapi.uatesting.in/application/models/v2/Invoice_model.php 12
+ERROR - 2024-01-15 23:26:45 --> Severity: Warning --> foreach() argument must be of type array|object, null given /var/www/devapi.uatesting.in/application/models/v2/Invoice_model.php 12
+ERROR - 2024-01-15 23:33:39 --> Severity: Warning --> Undefined property: stdClass::$invoices /var/www/devapi.uatesting.in/application/models/v2/Invoice_model.php 12
+ERROR - 2024-01-15 23:33:39 --> Severity: Warning --> foreach() argument must be of type array|object, null given /var/www/devapi.uatesting.in/application/models/v2/Invoice_model.php 12

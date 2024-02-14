@@ -1,0 +1,48 @@
+ERROR - 2023-12-29 01:31:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-29 01:40:37 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2023-12-29 01:40:37 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-12-29 01:40:37 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2023-12-29 01:42:18 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2023-12-29 01:42:18 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-12-29 01:42:18 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2023-12-29 01:47:12 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2023-12-29 01:47:12 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2023-12-29 01:47:12 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2023-12-29 01:47:12 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2023-12-29 01:47:12 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2023-12-29 01:47:12 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2023-12-29 01:47:12 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1007
+ERROR - 2023-12-29 01:47:12 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 1008
+ERROR - 2023-12-29 22:17:57 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:18:02 --> 404 Page Not Found: Git/config
+ERROR - 2023-12-29 22:18:03 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:18:04 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:18:08 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:18:08 --> 404 Page Not Found: Version/index
+ERROR - 2023-12-29 22:18:09 --> 404 Page Not Found: Vscode/sftp.json
+ERROR - 2023-12-29 22:18:10 --> 404 Page Not Found: About/index
+ERROR - 2023-12-29 22:18:10 --> 404 Page Not Found: Debug/default
+ERROR - 2023-12-29 22:18:11 --> 404 Page Not Found: v2/_catalog/index
+ERROR - 2023-12-29 22:18:11 --> 404 Page Not Found: Ecp/Current
+ERROR - 2023-12-29 22:18:12 --> 404 Page Not Found: Server-status/index
+ERROR - 2023-12-29 22:18:13 --> 404 Page Not Found: Loginaction/index
+ERROR - 2023-12-29 22:18:13 --> 404 Page Not Found: _all_dbs/index
+ERROR - 2023-12-29 22:18:14 --> 404 Page Not Found: DS_Store/index
+ERROR - 2023-12-29 22:18:14 --> 404 Page Not Found: Env/index
+ERROR - 2023-12-29 22:18:15 --> 404 Page Not Found: Git/config
+ERROR - 2023-12-29 22:18:16 --> 404 Page Not Found: Configjson/index
+ERROR - 2023-12-29 22:18:17 --> 404 Page Not Found: Telescope/requests
+ERROR - 2023-12-29 22:18:17 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:18:38 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:18:41 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:18:59 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:19:27 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:19:45 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:19:46 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:19:51 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:21:18 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:21:50 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:21:55 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:27:48 --> 404 Page Not Found: /index
+ERROR - 2023-12-29 22:27:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-29 22:27:58 --> 404 Page Not Found: Faviconico/index

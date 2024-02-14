@@ -1,0 +1,7 @@
+ERROR - 2023-08-04 00:09:44 --> 404 Page Not Found: Dashboard/dashboard
+ERROR - 2023-08-04 00:09:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-04 00:10:38 --> 404 Page Not Found: Dashboard/dashboard
+ERROR - 2023-08-04 00:10:44 --> 404 Page Not Found: Dashboard/dashboard
+ERROR - 2023-08-04 00:11:13 --> 404 Page Not Found: Dashboard/dashboard
+ERROR - 2023-08-04 01:00:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-04 07:14:04 --> 404 Page Not Found: /index

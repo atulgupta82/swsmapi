@@ -1,0 +1,28 @@
+ERROR - 2023-08-05 12:02:45 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-05 13:55:22 --> 404 Page Not Found: /index
+ERROR - 2023-08-05 15:06:13 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-08-05 15:07:26 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-08-05 15:14:36 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-08-05 17:39:11 --> 404 Page Not Found: /index
+ERROR - 2023-08-05 17:39:42 --> 404 Page Not Found: /index
+ERROR - 2023-08-05 19:58:47 --> 404 Page Not Found: /index
+ERROR - 2023-08-05 20:06:44 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-08-05 20:29:08 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-08-05 20:29:35 --> Severity: error --> Exception: /var/www/api.uatesting.in/application/models/Schemes_model.php exists, but doesn't declare class Schemes_model /var/www/api.uatesting.in/system/core/Loader.php 340
+ERROR - 2023-08-05 20:49:29 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:49:30 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:49:39 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:49:40 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:50:02 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:50:02 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:50:47 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:50:47 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:50:55 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:50:55 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:51:02 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:51:02 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:51:23 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:51:23 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:51:42 --> Severity: error --> Exception: syntax error, unexpected token ";", expecting "]" /var/www/api.uatesting.in/application/models/Schemes_model.php 249
+ERROR - 2023-08-05 20:57:17 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-08-05 20:58:37 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261

@@ -1,0 +1,10 @@
+ERROR - 2023-08-02 00:29:13 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-02 00:29:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 182
+ERROR - 2023-08-02 00:29:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 183
+ERROR - 2023-08-02 00:29:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 184
+ERROR - 2023-08-02 00:29:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 185
+ERROR - 2023-08-02 00:29:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 186
+ERROR - 2023-08-02 11:03:58 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 117
+ERROR - 2023-08-02 11:34:39 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 117
+ERROR - 2023-08-02 11:49:43 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-02 20:31:27 --> 404 Page Not Found: Faviconico/index

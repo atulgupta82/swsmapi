@@ -1,0 +1,20 @@
+RewriteEngine on
+
+#Order Deny,Allow
+#Deny from all
+#Allow from 203.122.17.238
+#Allow from 117.99.188.77  
+
+RewriteCond $1 !^(index\.php|resources|robots\.txt)
+RewriteCond %{REQUEST_URI} ^/system.*
+RewriteRule ^(.*)$ index.php?/$1 [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)$ index.php?/$1 [L]
+
+# Enable cross domain access control
+#Header always set Access-Control-Allow-Methods "GET, POST"
+#Header always set Access-Control-Allow-Headers "*"
+
+

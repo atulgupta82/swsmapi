@@ -1,0 +1,32 @@
+ERROR - 2023-10-17 11:17:03 --> 404 Page Not Found: /index
+ERROR - 2023-10-17 11:17:03 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2023-10-17 11:17:03 --> 404 Page Not Found: /index
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: News/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2023-10-17 11:17:04 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2023-10-17 12:52:29 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-17 12:52:29 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-17 12:54:58 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-17 12:54:58 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-17 21:07:35 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-10-17 21:07:35 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-10-17 21:07:35 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-10-17 21:13:00 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-17 21:13:00 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-17 21:13:00 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-17 21:13:00 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-17 21:38:14 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-17 21:38:14 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969

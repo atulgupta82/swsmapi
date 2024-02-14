@@ -1,0 +1,339 @@
+ERROR - 2023-09-02 06:41:26 --> 404 Page Not Found: /index
+ERROR - 2023-09-02 06:41:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-02 06:41:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-02 06:41:29 --> 404 Page Not Found: /index
+ERROR - 2023-09-02 06:41:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-02 17:28:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 265
+ERROR - 2023-09-02 17:28:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 266
+ERROR - 2023-09-02 17:28:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 267
+ERROR - 2023-09-02 17:28:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 268
+ERROR - 2023-09-02 17:28:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 269
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 265
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 266
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 267
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 268
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 269
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 294
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 294
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 294
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 294
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 295
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 295
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 295
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 295
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 296
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 296
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 296
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 296
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 294
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 294
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 294
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 294
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 295
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 295
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 295
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 295
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 296
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 296
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 296
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 296
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:31:49 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 269
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 270
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 271
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 272
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 273
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 268
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 269
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 270
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 271
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 272
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 297
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 298
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 299
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 18:05:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 278
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 279
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 280
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 281
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 282
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 307
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 307
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 307
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 307
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 308
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 308
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 308
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 308
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 309
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 309
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 309
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 309
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 310
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 310
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 310
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 310
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 311
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 311
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 311
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 311
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 307
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 307
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 307
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 307
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 308
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 308
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 308
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 308
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 309
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 309
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 309
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 309
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 310
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 310
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 310
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 310
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 311
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 311
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 311
+ERROR - 2023-09-02 20:10:38 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 311
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 303
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 304
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:21:25 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 303
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 304
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:22:17 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 300
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 301
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 302
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 303
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 304
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Undefined array key "invoices" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 329
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 330
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 331
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 332
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333
+ERROR - 2023-09-02 20:24:45 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 333

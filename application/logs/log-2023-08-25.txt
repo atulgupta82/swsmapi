@@ -1,0 +1,106 @@
+ERROR - 2023-08-25 09:52:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-25 10:19:52 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 10:19:52 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 10:19:52 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 10:19:52 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:09:59 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-25 11:22:06 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-25 11:22:53 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:22:53 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:22:53 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:22:53 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:23:05 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:23:05 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:23:05 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:23:05 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:24:07 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 406
+ERROR - 2023-08-25 11:24:07 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:24:07 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:24:07 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:24:07 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:24:34 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Beneficiary.php 190
+ERROR - 2023-08-25 11:25:58 --> Severity: Warning --> Undefined property: stdClass::$scheme_id /var/www/api.uatesting.in/application/controllers/Schemes.php 184
+ERROR - 2023-08-25 11:25:58 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-25 11:25:58 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/api.uatesting.in/application/controllers/Schemes.php 186
+ERROR - 2023-08-25 11:26:07 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:26:07 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:26:07 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:26:07 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:26:13 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:26:13 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:26:13 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:26:13 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:29:24 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:29:24 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:29:24 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:29:24 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:29:34 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:29:34 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:29:34 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:29:34 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:30:44 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:30:44 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 11:30:44 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 11:30:44 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 12:04:06 --> Severity: Warning --> Undefined property: stdClass::$invoice_id /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 346
+ERROR - 2023-08-25 12:05:33 --> Severity: Warning --> Undefined property: stdClass::$invoice_id /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 346
+ERROR - 2023-08-25 12:07:18 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 346
+ERROR - 2023-08-25 12:07:37 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 346
+ERROR - 2023-08-25 12:08:28 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 346
+ERROR - 2023-08-25 12:10:23 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 346
+ERROR - 2023-08-25 12:12:40 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 347
+ERROR - 2023-08-25 13:21:24 --> Severity: Warning --> Undefined property: stdClass::$payment_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 424
+ERROR - 2023-08-25 13:21:24 --> Severity: Warning --> Undefined array key "payment_status" /var/www/api.uatesting.in/application/models/Sanctions_order_model.php 328
+ERROR - 2023-08-25 13:25:20 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 425
+ERROR - 2023-08-25 13:25:20 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/api.uatesting.in/application/models/Sanctions_order_model.php 333
+ERROR - 2023-08-25 13:27:17 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 425
+ERROR - 2023-08-25 13:27:17 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/api.uatesting.in/application/models/Sanctions_order_model.php 333
+ERROR - 2023-08-25 13:28:18 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 425
+ERROR - 2023-08-25 13:28:18 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/api.uatesting.in/application/models/Sanctions_order_model.php 333
+ERROR - 2023-08-25 13:31:24 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 425
+ERROR - 2023-08-25 13:31:24 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/api.uatesting.in/application/models/Sanctions_order_model.php 333
+ERROR - 2023-08-25 13:47:05 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 425
+ERROR - 2023-08-25 13:47:05 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/api.uatesting.in/application/models/Sanctions_order_model.php 333
+ERROR - 2023-08-25 13:52:12 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 425
+ERROR - 2023-08-25 13:52:12 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/api.uatesting.in/application/models/Sanctions_order_model.php 333
+ERROR - 2023-08-25 14:09:35 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 14:09:35 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 14:12:21 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 14:12:21 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 14:12:27 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 14:12:27 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 15:40:22 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 15:40:22 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 15:41:09 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 15:41:09 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 16:02:29 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 463
+ERROR - 2023-08-25 16:02:56 --> Severity: Warning --> Undefined property: stdClass::$scheme_id /var/www/api.uatesting.in/application/controllers/Schemes.php 184
+ERROR - 2023-08-25 16:02:56 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-25 16:02:56 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/api.uatesting.in/application/controllers/Schemes.php 186
+ERROR - 2023-08-25 16:14:12 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 16:14:12 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 16:28:43 --> 404 Page Not Found: /index
+ERROR - 2023-08-25 16:28:43 --> 404 Page Not Found: /index
+ERROR - 2023-08-25 16:31:11 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-25 16:31:35 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-25 16:31:45 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-25 16:32:00 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-25 16:34:46 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Schemes.php 185
+ERROR - 2023-08-25 16:36:45 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/api.uatesting.in/application/controllers/Schemes.php 186
+ERROR - 2023-08-25 16:36:55 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/api.uatesting.in/application/controllers/Schemes.php 186
+ERROR - 2023-08-25 16:37:02 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/api.uatesting.in/application/controllers/Schemes.php 186
+ERROR - 2023-08-25 16:39:13 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 376
+ERROR - 2023-08-25 16:39:13 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/api.uatesting.in/application/controllers/Schemes.php 377
+ERROR - 2023-08-25 16:45:54 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 120
+ERROR - 2023-08-25 16:52:52 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/api.uatesting.in/application/controllers/Beneficiary.php 191
+ERROR - 2023-08-25 16:52:57 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/api.uatesting.in/application/controllers/Beneficiary.php 191
+ERROR - 2023-08-25 16:53:04 --> Severity: Warning --> Undefined property: stdClass::$l3_status /var/www/api.uatesting.in/application/controllers/Beneficiary.php 191
+ERROR - 2023-08-25 16:53:27 --> Severity: Warning --> Undefined property: stdClass::$l2_status /var/www/api.uatesting.in/application/controllers/Beneficiary.php 190
+ERROR - 2023-08-25 17:14:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-08-25 17:14:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-08-25 17:14:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-25 17:14:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-25 17:14:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-25 17:15:49 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 347
+ERROR - 2023-08-25 22:08:08 --> 404 Page Not Found: /index
+ERROR - 2023-08-25 22:09:51 --> 404 Page Not Found: /index

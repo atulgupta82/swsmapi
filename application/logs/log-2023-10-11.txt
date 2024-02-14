@@ -1,0 +1,20 @@
+ERROR - 2023-10-11 10:18:24 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-11 10:18:24 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-11 10:18:24 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-11 10:18:24 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-11 16:29:57 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-11 16:30:54 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 553
+ERROR - 2023-10-11 16:30:54 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 376
+ERROR - 2023-10-11 20:56:18 --> Severity: Warning --> Attempt to read property "mobile" on array /var/www/devapi.uatesting.in/application/controllers/Utils.php 165
+ERROR - 2023-10-11 20:56:18 --> Severity: Warning --> Attempt to read property "identifier" on array /var/www/devapi.uatesting.in/application/controllers/Utils.php 166
+ERROR - 2023-10-11 20:56:51 --> Severity: Warning --> Undefined property: stdClass::$identifier /var/www/devapi.uatesting.in/application/controllers/Utils.php 166
+ERROR - 2023-10-11 20:56:51 --> Severity: Warning --> Undefined variable $otpIdentifier /var/www/devapi.uatesting.in/application/controllers/Utils.php 167
+ERROR - 2023-10-11 20:57:06 --> Severity: Warning --> Undefined variable $otpIdentifier /var/www/devapi.uatesting.in/application/controllers/Utils.php 167
+ERROR - 2023-10-11 20:57:32 --> Severity: Warning --> Undefined variable $otpIdentifier /var/www/devapi.uatesting.in/application/controllers/Utils.php 167
+ERROR - 2023-10-11 21:04:01 --> Severity: Warning --> Undefined property: stdClass::$otp /var/www/devapi.uatesting.in/application/controllers/Utils.php 189
+ERROR - 2023-10-11 22:26:09 --> Severity: Warning --> Attempt to read property "mobile" on array /var/www/devapi.uatesting.in/application/controllers/Utils.php 165
+ERROR - 2023-10-11 22:26:09 --> Severity: Warning --> Attempt to read property "identifier" on array /var/www/devapi.uatesting.in/application/controllers/Utils.php 166
+ERROR - 2023-10-11 22:28:50 --> Severity: Warning --> Attempt to read property "mobile" on array /var/www/devapi.uatesting.in/application/controllers/Utils.php 165
+ERROR - 2023-10-11 22:28:50 --> Severity: Warning --> Attempt to read property "identifier" on array /var/www/devapi.uatesting.in/application/controllers/Utils.php 166
+ERROR - 2023-10-11 22:50:19 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 553
+ERROR - 2023-10-11 22:50:19 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 376

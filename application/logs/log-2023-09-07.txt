@@ -1,0 +1,63 @@
+ERROR - 2023-09-07 10:31:09 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 120
+ERROR - 2023-09-07 10:31:09 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 127
+ERROR - 2023-09-07 10:31:09 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 131
+ERROR - 2023-09-07 10:31:09 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 135
+ERROR - 2023-09-07 10:31:09 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 139
+ERROR - 2023-09-07 10:31:09 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 143
+ERROR - 2023-09-07 10:31:09 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 147
+ERROR - 2023-09-07 10:32:31 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 120
+ERROR - 2023-09-07 10:32:31 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 127
+ERROR - 2023-09-07 10:32:31 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 131
+ERROR - 2023-09-07 10:32:31 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 135
+ERROR - 2023-09-07 10:32:31 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 139
+ERROR - 2023-09-07 10:32:31 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 143
+ERROR - 2023-09-07 10:32:31 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 147
+ERROR - 2023-09-07 10:33:17 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 120
+ERROR - 2023-09-07 10:33:17 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 127
+ERROR - 2023-09-07 10:33:17 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 131
+ERROR - 2023-09-07 10:33:17 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 135
+ERROR - 2023-09-07 10:33:17 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 139
+ERROR - 2023-09-07 10:33:17 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 143
+ERROR - 2023-09-07 10:33:17 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 147
+ERROR - 2023-09-07 16:21:16 --> 404 Page Not Found: /index
+ERROR - 2023-09-07 17:24:38 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:24:38 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:24:38 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:24:38 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:30:17 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:30:17 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:30:26 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:30:26 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:30:26 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:30:26 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:34:02 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:34:02 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:34:02 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:34:02 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:34:45 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:34:45 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:34:45 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:34:45 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:35:32 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:35:32 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:39:40 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:39:40 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:40:13 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:40:13 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:40:13 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:40:13 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 17:40:29 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 634
+ERROR - 2023-09-07 17:40:29 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 635
+ERROR - 2023-09-07 18:26:11 --> 404 Page Not Found: /index
+ERROR - 2023-09-07 22:19:24 --> Severity: Warning --> Undefined array key "attachment" /var/www/devapi.uatesting.in/application/controllers/Schemes.php 410
+ERROR - 2023-09-07 22:48:43 --> Severity: Warning --> Undefined array key "attachment" /var/www/devapi.uatesting.in/application/controllers/Schemes.php 410
+ERROR - 2023-09-07 22:49:00 --> Severity: Warning --> Undefined array key "attachment" /var/www/devapi.uatesting.in/application/controllers/Schemes.php 410
+ERROR - 2023-09-07 22:49:28 --> Severity: Warning --> Undefined array key "attachment" /var/www/devapi.uatesting.in/application/controllers/Schemes.php 410
+ERROR - 2023-09-07 22:54:01 --> Severity: Warning --> Undefined array key "attachment" /var/www/devapi.uatesting.in/application/controllers/Schemes.php 410
+ERROR - 2023-09-07 22:58:48 --> Severity: Warning --> Undefined array key "attachment" /var/www/devapi.uatesting.in/application/controllers/Schemes.php 410
+ERROR - 2023-09-07 23:01:14 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/models/Schemes_model.php 434
+ERROR - 2023-09-07 23:02:03 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/models/Schemes_model.php 434
+ERROR - 2023-09-07 23:03:58 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/models/Schemes_model.php 434
+ERROR - 2023-09-07 23:05:08 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/models/Schemes_model.php 434
+ERROR - 2023-09-07 23:09:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-07 23:26:25 --> Severity: Warning --> Undefined array key "attachment" /var/www/devapi.uatesting.in/application/controllers/Schemes.php 411

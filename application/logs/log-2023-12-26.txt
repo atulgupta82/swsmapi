@@ -1,0 +1,52 @@
+ERROR - 2023-12-26 09:38:41 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2023-12-26 09:38:41 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-12-26 09:38:41 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2023-12-26 09:40:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 09:41:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 11:21:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 15:31:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 15:31:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 15:31:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 16:23:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 16:23:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 16:23:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 16:23:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 16:24:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 16:27:50 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2023-12-26 16:27:50 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-12-26 16:27:50 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2023-12-26 16:29:33 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2023-12-26 16:29:33 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-12-26 16:29:33 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2023-12-26 16:33:41 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2023-12-26 16:33:41 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2023-12-26 16:33:41 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2023-12-26 16:33:41 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2023-12-26 16:33:41 --> Severity: Warning --> Undefined array key "total_subhead_budget" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 533
+ERROR - 2023-12-26 16:45:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 16:46:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 17:56:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 18:55:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 18:55:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 18:57:27 --> 404 Page Not Found: Css/bootstrap.min.css
+ERROR - 2023-12-26 18:57:27 --> 404 Page Not Found: Css/style.css
+ERROR - 2023-12-26 18:57:27 --> 404 Page Not Found: Img/Shasan.png
+ERROR - 2023-12-26 18:57:27 --> 404 Page Not Found: Img/background_image.png
+ERROR - 2023-12-26 18:58:46 --> 404 Page Not Found: Css/style.css
+ERROR - 2023-12-26 18:58:46 --> 404 Page Not Found: Css/bootstrap.min.css
+ERROR - 2023-12-26 18:58:46 --> 404 Page Not Found: Img/Shasan.png
+ERROR - 2023-12-26 18:58:46 --> 404 Page Not Found: Img/background_image.png
+ERROR - 2023-12-26 18:58:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 19:00:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-26 19:02:21 --> 404 Page Not Found: Css/style.css
+ERROR - 2023-12-26 19:02:21 --> 404 Page Not Found: Css/bootstrap.min.css
+ERROR - 2023-12-26 19:02:21 --> 404 Page Not Found: Img/Shasan.png
+ERROR - 2023-12-26 19:02:21 --> 404 Page Not Found: Img/background_image.png
+ERROR - 2023-12-26 19:03:07 --> 404 Page Not Found: Css/bootstrap.min.css
+ERROR - 2023-12-26 19:03:07 --> 404 Page Not Found: Css/style.css
+ERROR - 2023-12-26 19:03:07 --> 404 Page Not Found: Img/Shasan.png
+ERROR - 2023-12-26 19:03:07 --> 404 Page Not Found: Img/background_image.png
+ERROR - 2023-12-26 19:03:12 --> 404 Page Not Found: Css/style.css
+ERROR - 2023-12-26 19:03:12 --> 404 Page Not Found: Img/Shasan.png
+ERROR - 2023-12-26 19:03:12 --> 404 Page Not Found: Css/bootstrap.min.css
+ERROR - 2023-12-26 19:03:12 --> 404 Page Not Found: Img/background_image.png

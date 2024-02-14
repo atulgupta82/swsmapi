@@ -1,0 +1,39 @@
+ERROR - 2023-09-22 11:45:47 --> Severity: Warning --> Undefined property: stdClass::$payment_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 526
+ERROR - 2023-09-22 11:45:47 --> Severity: Warning --> Undefined array key "payment_status" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 330
+ERROR - 2023-09-22 11:46:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-22 11:48:00 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 527
+ERROR - 2023-09-22 11:48:00 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 335
+ERROR - 2023-09-22 11:48:28 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 527
+ERROR - 2023-09-22 11:48:28 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 335
+ERROR - 2023-09-22 11:50:11 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 876
+ERROR - 2023-09-22 11:50:11 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 877
+ERROR - 2023-09-22 11:50:47 --> Severity: Warning --> Undefined property: stdClass::$tds_it_amount /var/www/devapi.uatesting.in/application/controllers/Schemes.php 70
+ERROR - 2023-09-22 11:50:47 --> Severity: Warning --> Undefined property: stdClass::$s_gst_amount /var/www/devapi.uatesting.in/application/controllers/Schemes.php 71
+ERROR - 2023-09-22 11:50:47 --> Severity: Warning --> Undefined property: stdClass::$c_gst_amount /var/www/devapi.uatesting.in/application/controllers/Schemes.php 72
+ERROR - 2023-09-22 11:50:47 --> Severity: Warning --> Undefined property: stdClass::$i_gst_amount /var/www/devapi.uatesting.in/application/controllers/Schemes.php 73
+ERROR - 2023-09-22 11:50:47 --> Severity: Warning --> Undefined property: stdClass::$other_deduction /var/www/devapi.uatesting.in/application/controllers/Schemes.php 74
+ERROR - 2023-09-22 12:10:21 --> 404 Page Not Found: /index
+ERROR - 2023-09-22 19:46:39 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 876
+ERROR - 2023-09-22 19:46:39 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 877
+ERROR - 2023-09-22 19:46:39 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 876
+ERROR - 2023-09-22 19:46:39 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 877
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 319
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 320
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 321
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 322
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 323
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 348
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 349
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 350
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 351
+ERROR - 2023-09-22 21:05:09 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 352
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 319
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 320
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 321
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 322
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 323
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 348
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 349
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 350
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 351
+ERROR - 2023-09-22 21:20:26 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 352

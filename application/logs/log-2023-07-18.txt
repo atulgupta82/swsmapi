@@ -1,0 +1,16 @@
+ERROR - 2023-07-18 02:38:38 --> 404 Page Not Found: /index
+ERROR - 2023-07-18 03:10:32 --> 404 Page Not Found: /index
+ERROR - 2023-07-18 19:55:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-07-18 20:23:28 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 207
+ERROR - 2023-07-18 20:23:28 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 210
+ERROR - 2023-07-18 20:23:28 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 213
+ERROR - 2023-07-18 20:23:28 --> Severity: Warning --> Undefined array key "code" /var/www/api.uatesting.in/application/models/Users_model.php 65
+ERROR - 2023-07-18 20:23:28 --> Severity: Warning --> Undefined array key "user_id" /var/www/api.uatesting.in/application/models/Users_model.php 68
+ERROR - 2023-07-18 20:24:25 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 190
+ERROR - 2023-07-18 20:24:25 --> Severity: Warning --> Undefined property: stdClass::$code /var/www/api.uatesting.in/application/controllers/Users.php 207
+ERROR - 2023-07-18 20:24:25 --> Severity: Warning --> Undefined property: stdClass::$designation /var/www/api.uatesting.in/application/controllers/Users.php 210
+ERROR - 2023-07-18 20:24:25 --> Severity: Warning --> Undefined property: stdClass::$user_type /var/www/api.uatesting.in/application/controllers/Users.php 213
+ERROR - 2023-07-18 20:24:25 --> Severity: Warning --> Undefined property: stdClass::$email /var/www/api.uatesting.in/application/controllers/Users.php 216
+ERROR - 2023-07-18 20:24:25 --> Severity: Warning --> Undefined property: stdClass::$mobile /var/www/api.uatesting.in/application/controllers/Users.php 219
+ERROR - 2023-07-18 20:24:25 --> Severity: Warning --> Undefined property: stdClass::$password /var/www/api.uatesting.in/application/controllers/Users.php 222
+ERROR - 2023-07-18 22:12:37 --> Severity: Warning --> Undefined variable $users /var/www/api.uatesting.in/application/controllers/Users.php 50

@@ -1,0 +1,98 @@
+ERROR - 2023-11-21 05:03:13 --> 404 Page Not Found: /index
+ERROR - 2023-11-21 05:57:54 --> 404 Page Not Found: /index
+ERROR - 2023-11-21 07:23:27 --> 404 Page Not Found: /index
+ERROR - 2023-11-21 08:17:11 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 08:17:11 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 08:17:11 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 08:18:47 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-11-21 08:18:47 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-11-21 08:18:47 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-11-21 08:18:47 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-11-21 08:18:47 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-11-21 08:18:47 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-11-21 08:18:47 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-11-21 08:18:47 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-11-21 09:57:21 --> 404 Page Not Found: /index
+ERROR - 2023-11-21 09:58:24 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 09:58:24 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 09:58:24 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 11:02:29 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 11:02:29 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 11:02:29 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 11:08:02 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 11:08:02 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 11:08:02 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 11:32:34 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 11:32:34 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 11:32:34 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 11:46:53 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-11-21 11:46:53 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-11-21 11:46:53 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-11-21 11:46:53 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-11-21 11:46:53 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-11-21 11:46:53 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-11-21 11:46:53 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-11-21 11:46:53 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-11-21 12:09:19 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 12:09:19 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 12:09:19 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 12:10:46 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 12:10:46 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 12:10:46 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 12:17:39 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 12:17:39 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 12:17:39 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 12:25:15 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 12:25:15 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 12:25:15 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 12:33:16 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 12:33:16 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 12:33:16 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 12:42:49 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 12:42:49 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 12:42:49 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 12:53:13 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 12:53:13 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 12:53:13 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 12:57:42 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 12:57:42 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 12:57:42 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 14:31:39 --> 404 Page Not Found: /index
+ERROR - 2023-11-21 15:55:39 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 15:55:39 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 15:55:39 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 17:25:04 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-21 17:25:04 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-21 17:25:04 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-21 17:28:23 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:28:27 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:28:42 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:29:05 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:29:11 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:29:11 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:29:17 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:29:19 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:29:21 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:29:22 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:29:25 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-21 17:29:36 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 310
+ERROR - 2023-11-21 17:29:36 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 317
+ERROR - 2023-11-21 17:29:36 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 321
+ERROR - 2023-11-21 17:29:36 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 325
+ERROR - 2023-11-21 17:29:36 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 329
+ERROR - 2023-11-21 17:29:36 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 333
+ERROR - 2023-11-21 17:29:36 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 337
+ERROR - 2023-11-21 17:29:41 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 310
+ERROR - 2023-11-21 17:29:41 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 317
+ERROR - 2023-11-21 17:29:41 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 321
+ERROR - 2023-11-21 17:29:41 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 325
+ERROR - 2023-11-21 17:29:41 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 329
+ERROR - 2023-11-21 17:29:41 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 333
+ERROR - 2023-11-21 17:29:41 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 337
+ERROR - 2023-11-21 17:30:02 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 310
+ERROR - 2023-11-21 17:30:02 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 317
+ERROR - 2023-11-21 17:30:02 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 321
+ERROR - 2023-11-21 17:30:02 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 325
+ERROR - 2023-11-21 17:30:02 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 329
+ERROR - 2023-11-21 17:30:02 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 333
+ERROR - 2023-11-21 17:30:02 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 337

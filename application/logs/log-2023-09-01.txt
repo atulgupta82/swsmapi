@@ -1,0 +1,54 @@
+ERROR - 2023-09-01 01:48:41 --> 404 Page Not Found: /index
+ERROR - 2023-09-01 01:48:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-01 01:48:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-01 01:48:42 --> 404 Page Not Found: /index
+ERROR - 2023-09-01 01:48:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-01 18:09:25 --> 404 Page Not Found: /index
+ERROR - 2023-09-01 18:09:25 --> 404 Page Not Found: Blog/index
+ERROR - 2023-09-01 18:09:26 --> 404 Page Not Found: Wp/index
+ERROR - 2023-09-01 18:09:26 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-09-01 18:09:26 --> 404 Page Not Found: New/index
+ERROR - 2023-09-01 18:09:27 --> 404 Page Not Found: Old/index
+ERROR - 2023-09-01 18:09:27 --> 404 Page Not Found: Test/index
+ERROR - 2023-09-01 18:09:27 --> 404 Page Not Found: OLD/index
+ERROR - 2023-09-01 18:09:27 --> 404 Page Not Found: Backup/index
+ERROR - 2023-09-01 18:18:57 --> 404 Page Not Found: /index
+ERROR - 2023-09-01 18:46:01 --> 404 Page Not Found: /index
+ERROR - 2023-09-01 18:50:09 --> 404 Page Not Found: /index
+ERROR - 2023-09-01 21:10:29 --> Severity: Warning --> Undefined array key "attachment" /var/www/devapi.uatesting.in/application/controllers/Schemes.php 275
+ERROR - 2023-09-01 21:10:36 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 543
+ERROR - 2023-09-01 21:10:36 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 544
+ERROR - 2023-09-01 21:10:36 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 543
+ERROR - 2023-09-01 21:10:36 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 544
+ERROR - 2023-09-01 21:12:14 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 120
+ERROR - 2023-09-01 21:12:14 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 127
+ERROR - 2023-09-01 21:12:14 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 131
+ERROR - 2023-09-01 21:12:14 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 135
+ERROR - 2023-09-01 21:12:14 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 139
+ERROR - 2023-09-01 21:12:14 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 143
+ERROR - 2023-09-01 21:12:14 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 147
+ERROR - 2023-09-01 21:16:12 --> 404 Page Not Found: /index
+ERROR - 2023-09-01 21:16:19 --> 404 Page Not Found: Public/home
+ERROR - 2023-09-01 21:16:29 --> 404 Page Not Found: Static/admin
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 217
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 218
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 246
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 247
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 248
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 249
+ERROR - 2023-09-01 21:21:17 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 250
+ERROR - 2023-09-01 22:16:17 --> 404 Page Not Found: /index
+ERROR - 2023-09-01 22:22:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-01 22:39:46 --> Severity: Warning --> Attempt to read property "invoice_no" on array /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 67
+ERROR - 2023-09-01 22:39:46 --> Severity: Warning --> Attempt to read property "invoice_date" on array /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 68
+ERROR - 2023-09-01 22:39:46 --> Severity: Warning --> Attempt to read property "vendor_id" on array /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 69
+ERROR - 2023-09-01 22:39:46 --> Severity: Warning --> Attempt to read property "payment_type" on array /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 70
+ERROR - 2023-09-01 22:40:12 --> Severity: Warning --> Undefined property: stdClass::$invoice_date /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 68
+ERROR - 2023-09-01 22:40:12 --> Severity: Warning --> Undefined property: stdClass::$vendor_id /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 69
+ERROR - 2023-09-01 22:40:12 --> Severity: Warning --> Undefined property: stdClass::$payment_type /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 70
+ERROR - 2023-09-01 22:40:29 --> Severity: Warning --> Undefined property: stdClass::$invoice_date /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 68
+ERROR - 2023-09-01 22:40:29 --> Severity: Warning --> Undefined property: stdClass::$vendor_id /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 69
+ERROR - 2023-09-01 22:40:29 --> Severity: Warning --> Undefined property: stdClass::$payment_type /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 70

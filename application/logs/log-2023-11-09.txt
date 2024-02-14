@@ -1,0 +1,49 @@
+ERROR - 2023-11-09 22:30:47 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-09 22:30:47 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-09 22:30:47 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-09 22:44:42 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-09 22:44:42 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-09 22:44:42 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 471
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 472
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 473
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 500
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 501
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 502
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 503
+ERROR - 2023-11-09 22:50:56 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 504
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 471
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 472
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 473
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 500
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 501
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 502
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 503
+ERROR - 2023-11-09 22:55:54 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 504
+ERROR - 2023-11-09 23:06:48 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-09 23:06:48 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-09 23:06:48 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 471
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 472
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 473
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 500
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 501
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 502
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 503
+ERROR - 2023-11-09 23:10:08 --> Severity: Warning --> Undefined array key "invoice" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 504
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 471
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 472
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 473
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 500
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 501
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 502
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 503
+ERROR - 2023-11-09 23:25:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 504

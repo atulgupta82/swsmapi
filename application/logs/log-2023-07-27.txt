@@ -1,0 +1,2 @@
+ERROR - 2023-07-27 08:34:23 --> 404 Page Not Found: /index
+ERROR - 2023-07-27 18:50:13 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261

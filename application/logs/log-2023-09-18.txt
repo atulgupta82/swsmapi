@@ -1,0 +1,2 @@
+ERROR - 2023-09-18 20:02:23 --> 404 Page Not Found: /index
+ERROR - 2023-09-18 22:15:03 --> 404 Page Not Found: Faviconico/index

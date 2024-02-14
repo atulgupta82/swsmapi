@@ -1,0 +1,29 @@
+ERROR - 2023-07-20 01:06:46 --> 404 Page Not Found: /index
+ERROR - 2023-07-20 15:32:44 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 124
+ERROR - 2023-07-20 15:32:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:32:44 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:34:37 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 124
+ERROR - 2023-07-20 15:34:37 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:34:37 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:37:27 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 124
+ERROR - 2023-07-20 15:37:27 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:37:27 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:39:28 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 124
+ERROR - 2023-07-20 15:39:28 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:39:28 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:41:58 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 124
+ERROR - 2023-07-20 15:41:58 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:41:58 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:53:01 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 124
+ERROR - 2023-07-20 15:53:01 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 15:53:01 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 187
+ERROR - 2023-07-20 21:03:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-07-20 21:03:17 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-07-20 21:03:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-20 21:03:19 --> 404 Page Not Found: /index
+ERROR - 2023-07-20 21:03:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-07-20 21:03:22 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-07-20 21:03:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-20 22:13:30 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 120
+ERROR - 2023-07-20 22:13:30 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Schemes.php 182
+ERROR - 2023-07-20 22:13:30 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/api.uatesting.in/application/controllers/Schemes.php 182

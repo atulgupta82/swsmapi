@@ -1,0 +1,2 @@
+ERROR - 2023-11-12 01:07:30 --> 404 Page Not Found: /index
+ERROR - 2023-11-12 10:10:32 --> 404 Page Not Found: Git/config

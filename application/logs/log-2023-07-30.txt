@@ -1,0 +1,4 @@
+ERROR - 2023-07-30 11:43:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-07-30 14:30:18 --> Severity: Warning --> Attempt to read property "invoice_id" on array /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 281
+ERROR - 2023-07-30 14:33:27 --> Severity: error --> Exception: /var/www/api.uatesting.in/application/models/Sanctions_order_model.php exists, but doesn't declare class Sanctions_order_model /var/www/api.uatesting.in/system/core/Loader.php 340
+ERROR - 2023-07-30 17:00:23 --> 404 Page Not Found: Faviconico/index

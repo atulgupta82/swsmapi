@@ -1,0 +1,35 @@
+ERROR - 2023-07-31 12:37:30 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Undefined array key "vouchers" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 110
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 182
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 182
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 182
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 183
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 183
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 183
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 184
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 184
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 184
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 185
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 185
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 185
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 186
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 186
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 186
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Undefined array key "vouchers" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 111
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 182
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 182
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 182
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 183
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 183
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 183
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 184
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 184
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 184
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 185
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 185
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 185
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 186
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 186
+ERROR - 2023-07-31 12:37:31 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 186
+ERROR - 2023-07-31 12:42:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-07-31 21:57:18 --> 404 Page Not Found: Faviconico/index

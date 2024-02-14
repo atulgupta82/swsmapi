@@ -1,0 +1,253 @@
+ERROR - 2023-08-20 05:12:52 --> 404 Page Not Found: /index
+ERROR - 2023-08-20 05:12:52 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2023-08-20 05:12:52 --> 404 Page Not Found: /index
+ERROR - 2023-08-20 05:12:52 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2023-08-20 05:12:52 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2023-08-20 05:12:52 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2023-08-20 05:12:52 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: News/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2023-08-20 05:12:53 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2023-08-20 14:18:29 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:18:49 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:18:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 188
+ERROR - 2023-08-20 14:18:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 189
+ERROR - 2023-08-20 14:18:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 190
+ERROR - 2023-08-20 14:18:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 191
+ERROR - 2023-08-20 14:18:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 14:18:49 --> Severity: Warning --> Attempt to read property "payment" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 125
+ERROR - 2023-08-20 14:18:49 --> Severity: Warning --> Attempt to read property "vendor_id" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 126
+ERROR - 2023-08-20 14:18:49 --> Severity: Warning --> Attempt to read property "invoice_no" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 127
+ERROR - 2023-08-20 14:18:49 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 130
+ERROR - 2023-08-20 14:42:02 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:42:02 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 188
+ERROR - 2023-08-20 14:42:02 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 189
+ERROR - 2023-08-20 14:42:02 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 190
+ERROR - 2023-08-20 14:42:02 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 191
+ERROR - 2023-08-20 14:42:02 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 14:42:02 --> Severity: Warning --> Attempt to read property "payment" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 125
+ERROR - 2023-08-20 14:42:02 --> Severity: Warning --> Attempt to read property "vendor_id" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 126
+ERROR - 2023-08-20 14:42:02 --> Severity: Warning --> Attempt to read property "invoice_no" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 127
+ERROR - 2023-08-20 14:42:02 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 130
+ERROR - 2023-08-20 14:44:13 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:44:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 188
+ERROR - 2023-08-20 14:44:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 189
+ERROR - 2023-08-20 14:44:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 190
+ERROR - 2023-08-20 14:44:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 191
+ERROR - 2023-08-20 14:44:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 14:45:03 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:45:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 189
+ERROR - 2023-08-20 14:45:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 190
+ERROR - 2023-08-20 14:45:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 191
+ERROR - 2023-08-20 14:45:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 14:45:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 14:45:45 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:45:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 190
+ERROR - 2023-08-20 14:45:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 191
+ERROR - 2023-08-20 14:45:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 14:45:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 14:45:45 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 14:47:04 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:47:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 191
+ERROR - 2023-08-20 14:47:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 14:47:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 14:47:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 14:47:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 191
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Undefined array key 0 /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 133
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 133
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 219
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 222
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 222
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 222
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 223
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 223
+ERROR - 2023-08-20 14:48:00 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 223
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Undefined array key 0 /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 133
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 133
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 222
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 222
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 222
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 223
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 223
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 223
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 224
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 224
+ERROR - 2023-08-20 14:48:20 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 224
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Undefined array key 0 /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 133
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 133
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 220
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 221
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 222
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 222
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 222
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 223
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 223
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 223
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 224
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 224
+ERROR - 2023-08-20 14:54:04 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 224
+ERROR - 2023-08-20 14:55:56 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:55:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 14:55:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 14:55:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 14:55:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 14:55:56 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 14:55:56 --> Severity: Warning --> Undefined array key 0 /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 133
+ERROR - 2023-08-20 14:56:14 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:56:14 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 14:56:14 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 14:56:14 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 14:56:14 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 14:56:14 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 14:58:51 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 14:58:51 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 14:58:51 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 14:58:51 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 14:58:51 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 14:58:51 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-08-20 15:01:38 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 15:01:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:01:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:01:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:01:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 15:01:38 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-08-20 15:03:10 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 15:03:10 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 15:03:10 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:03:10 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:03:10 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:03:10 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:04:52 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 15:04:52 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 15:04:52 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:04:52 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:04:52 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:04:52 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:06:22 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 15:06:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 15:06:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:06:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:06:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:06:22 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:08:05 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 15:08:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 15:08:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:08:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:08:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:08:05 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:08:31 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 15:08:31 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 15:08:31 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:08:31 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:08:31 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:08:31 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:11:29 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 15:11:29 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 15:11:29 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:11:29 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:11:29 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:11:29 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:12:35 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-20 15:12:35 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 15:12:35 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:12:35 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:12:35 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:12:35 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:50:41 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 191
+ERROR - 2023-08-20 15:50:41 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 192
+ERROR - 2023-08-20 15:50:41 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:50:41 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:50:41 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:51:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:51:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:51:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:51:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:51:47 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 15:51:47 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 126
+ERROR - 2023-08-20 15:52:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:52:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:52:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:52:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:52:13 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 15:52:13 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 131
+ERROR - 2023-08-20 15:52:33 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:52:33 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:52:33 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:52:33 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:52:33 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 15:53:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 193
+ERROR - 2023-08-20 15:53:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 194
+ERROR - 2023-08-20 15:53:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:53:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:53:17 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 15:54:12 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 195
+ERROR - 2023-08-20 15:54:12 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 15:54:12 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 15:54:12 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-08-20 15:54:12 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 199
+ERROR - 2023-08-20 16:05:21 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 16:05:21 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 16:05:21 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-08-20 16:05:21 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 199
+ERROR - 2023-08-20 16:05:21 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 200
+ERROR - 2023-08-20 16:17:34 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 16:17:34 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 16:17:34 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-08-20 16:17:34 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 199
+ERROR - 2023-08-20 16:17:34 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 200
+ERROR - 2023-08-20 16:17:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 16:17:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 16:17:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-08-20 16:17:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 199
+ERROR - 2023-08-20 16:17:49 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 200
+ERROR - 2023-08-20 16:18:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 196
+ERROR - 2023-08-20 16:18:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 197
+ERROR - 2023-08-20 16:18:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 198
+ERROR - 2023-08-20 16:18:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 199
+ERROR - 2023-08-20 16:18:20 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 200
+ERROR - 2023-08-20 22:29:42 --> 404 Page Not Found: Faviconico/index

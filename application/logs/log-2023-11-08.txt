@@ -1,0 +1,25 @@
+ERROR - 2023-11-08 08:58:09 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-08 08:58:09 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-08 08:58:09 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-08 11:52:31 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-08 11:52:31 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-08 11:52:31 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-08 12:03:14 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-08 12:03:14 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-08 12:03:14 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-08 20:15:50 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-08 20:15:50 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-08 20:15:50 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-08 20:46:33 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-08 20:46:33 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-08 20:46:33 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-08 21:06:44 --> Severity: Warning --> Undefined property: stdClass::$vouchers /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 326
+ERROR - 2023-11-08 21:06:44 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 340
+ERROR - 2023-11-08 21:06:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 520
+ERROR - 2023-11-08 21:06:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 521
+ERROR - 2023-11-08 21:06:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 522
+ERROR - 2023-11-08 21:06:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 523
+ERROR - 2023-11-08 21:06:44 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 524
+ERROR - 2023-11-08 21:50:44 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-08 21:50:44 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-08 21:50:44 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288

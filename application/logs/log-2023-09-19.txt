@@ -1,0 +1,13 @@
+ERROR - 2023-09-19 18:16:01 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 348
+ERROR - 2023-09-19 18:16:01 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 349
+ERROR - 2023-09-19 18:16:01 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 350
+ERROR - 2023-09-19 18:16:01 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 351
+ERROR - 2023-09-19 18:16:01 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 352
+ERROR - 2023-09-19 18:16:02 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 348
+ERROR - 2023-09-19 18:16:02 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 349
+ERROR - 2023-09-19 18:16:02 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 350
+ERROR - 2023-09-19 18:16:02 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 351
+ERROR - 2023-09-19 18:16:02 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 352
+ERROR - 2023-09-19 20:24:42 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 449
+ERROR - 2023-09-19 20:25:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-09-19 20:25:48 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 449

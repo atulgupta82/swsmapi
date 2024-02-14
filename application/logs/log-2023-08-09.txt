@@ -1,0 +1,18 @@
+ERROR - 2023-08-09 05:10:13 --> 404 Page Not Found: /index
+ERROR - 2023-08-09 10:56:19 --> 404 Page Not Found: /index
+ERROR - 2023-08-09 10:56:58 --> 404 Page Not Found: /index
+ERROR - 2023-08-09 13:38:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-09 16:40:09 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 120
+ERROR - 2023-08-09 16:40:09 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 127
+ERROR - 2023-08-09 16:40:09 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 131
+ERROR - 2023-08-09 16:40:09 --> Severity: Warning --> Undefined array key "pan_card" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 135
+ERROR - 2023-08-09 16:40:09 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 139
+ERROR - 2023-08-09 16:40:09 --> Severity: Warning --> Undefined array key "letter_head" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 143
+ERROR - 2023-08-09 16:40:09 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 147
+ERROR - 2023-08-09 16:43:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-09 18:44:55 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-09 18:45:46 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-09 18:45:57 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-09 18:46:11 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-09 18:46:28 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-09 21:03:48 --> 404 Page Not Found: Faviconico/index

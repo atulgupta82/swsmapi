@@ -1,0 +1,78 @@
+ERROR - 2023-11-22 08:51:55 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-22 08:51:55 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-22 08:51:55 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-22 08:53:46 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 373
+ERROR - 2023-11-22 08:53:48 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 373
+ERROR - 2023-11-22 08:53:49 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 373
+ERROR - 2023-11-22 08:53:50 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 373
+ERROR - 2023-11-22 08:53:51 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 373
+ERROR - 2023-11-22 08:53:52 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 373
+ERROR - 2023-11-22 08:53:53 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 373
+ERROR - 2023-11-22 08:54:06 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 373
+ERROR - 2023-11-22 08:54:43 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 08:55:22 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 310
+ERROR - 2023-11-22 08:55:22 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 317
+ERROR - 2023-11-22 08:55:22 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 321
+ERROR - 2023-11-22 08:55:22 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 325
+ERROR - 2023-11-22 08:55:22 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 329
+ERROR - 2023-11-22 08:55:22 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 333
+ERROR - 2023-11-22 08:55:22 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 337
+ERROR - 2023-11-22 08:55:28 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 310
+ERROR - 2023-11-22 08:55:28 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 317
+ERROR - 2023-11-22 08:55:28 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 321
+ERROR - 2023-11-22 08:55:28 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 325
+ERROR - 2023-11-22 08:55:28 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 329
+ERROR - 2023-11-22 08:55:28 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 333
+ERROR - 2023-11-22 08:55:28 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 337
+ERROR - 2023-11-22 08:55:52 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 310
+ERROR - 2023-11-22 08:55:52 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 317
+ERROR - 2023-11-22 08:55:52 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 321
+ERROR - 2023-11-22 08:55:52 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 325
+ERROR - 2023-11-22 08:55:52 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 329
+ERROR - 2023-11-22 08:55:52 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 333
+ERROR - 2023-11-22 08:55:52 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 337
+ERROR - 2023-11-22 08:56:44 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 310
+ERROR - 2023-11-22 08:56:44 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 317
+ERROR - 2023-11-22 08:56:44 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 321
+ERROR - 2023-11-22 08:56:44 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 325
+ERROR - 2023-11-22 08:56:44 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 329
+ERROR - 2023-11-22 08:56:44 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 333
+ERROR - 2023-11-22 08:56:44 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 337
+ERROR - 2023-11-22 09:00:40 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 310
+ERROR - 2023-11-22 09:00:40 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 317
+ERROR - 2023-11-22 09:00:40 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 321
+ERROR - 2023-11-22 09:00:40 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 325
+ERROR - 2023-11-22 09:00:40 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 329
+ERROR - 2023-11-22 09:00:40 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 333
+ERROR - 2023-11-22 09:00:40 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 337
+ERROR - 2023-11-22 09:42:00 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-22 09:42:00 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-22 09:42:00 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-22 11:02:15 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-22 11:02:15 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-22 11:02:15 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-22 11:03:57 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:03:58 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:04:00 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:04:00 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:04:00 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:04:00 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:04:00 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:04:08 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:12:28 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:12:29 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:12:29 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:12:29 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:12:29 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364
+ERROR - 2023-11-22 11:13:23 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 310
+ERROR - 2023-11-22 11:13:23 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 317
+ERROR - 2023-11-22 11:13:23 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 321
+ERROR - 2023-11-22 11:13:23 --> Severity: Warning --> Undefined array key "pan_card" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 325
+ERROR - 2023-11-22 11:13:23 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 329
+ERROR - 2023-11-22 11:13:23 --> Severity: Warning --> Undefined array key "letter_head" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 333
+ERROR - 2023-11-22 11:13:23 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 337
+ERROR - 2023-11-22 16:43:32 --> 404 Page Not Found: /index
+ERROR - 2023-11-22 21:29:48 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-11-22 21:29:48 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-11-22 21:29:48 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-11-22 21:38:01 --> Severity: Warning --> Undefined variable $e /var/www/devapi.uatesting.in/application/controllers/Beneficiary.php 364

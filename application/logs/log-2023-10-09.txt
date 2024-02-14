@@ -1,0 +1,51 @@
+ERROR - 2023-10-09 12:45:33 --> 404 Page Not Found: /index
+ERROR - 2023-10-09 12:45:44 --> 404 Page Not Found: /index
+ERROR - 2023-10-09 12:45:52 --> 404 Page Not Found: Env/index
+ERROR - 2023-10-09 12:46:04 --> 404 Page Not Found: Env/index
+ERROR - 2023-10-09 12:46:12 --> 404 Page Not Found: Devapiuatestingin/.env
+ERROR - 2023-10-09 12:46:25 --> 404 Page Not Found: Devapiuatestingin/.env
+ERROR - 2023-10-09 12:46:37 --> 404 Page Not Found: Vendor/.env
+ERROR - 2023-10-09 12:46:46 --> 404 Page Not Found: Vendor/.env
+ERROR - 2023-10-09 12:46:54 --> 404 Page Not Found: Devapiuatestingin/.env
+ERROR - 2023-10-09 12:47:03 --> 404 Page Not Found: Devapiuatestingin/.env
+ERROR - 2023-10-09 12:47:26 --> 404 Page Not Found: Admin/.env
+ERROR - 2023-10-09 12:47:33 --> 404 Page Not Found: Admin/.env
+ERROR - 2023-10-09 12:47:58 --> 404 Page Not Found: Devapiuatestingin/.env
+ERROR - 2023-10-09 19:23:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-10-09 19:24:07 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 19:27:38 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 19:36:57 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 19:44:08 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 19:44:30 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 19:46:05 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 19:48:32 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 19:49:30 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 19:51:30 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 20:04:02 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 20:06:22 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 20:08:50 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 967
+ERROR - 2023-10-09 20:08:50 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-09 20:08:50 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 967
+ERROR - 2023-10-09 20:08:50 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-09 20:17:33 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 20:18:34 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 20:18:42 --> Severity: Warning --> Undefined property: stdClass::$l3_approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 475
+ERROR - 2023-10-09 20:20:27 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-10-09 20:21:29 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-10-09 20:22:11 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-10-09 20:24:08 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-10-09 20:42:22 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-10-09 20:43:35 --> Severity: Warning --> Undefined property: stdClass::$approval_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 474
+ERROR - 2023-10-09 20:57:13 --> Severity: Warning --> Undefined property: stdClass::$l3_payment_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 553
+ERROR - 2023-10-09 20:57:13 --> Severity: Warning --> Undefined array key "l3_payment_status" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 376
+ERROR - 2023-10-09 20:59:31 --> Severity: Warning --> Undefined property: stdClass::$payment_status /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 552
+ERROR - 2023-10-09 20:59:31 --> Severity: Warning --> Undefined array key "payment_status" /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 371
+ERROR - 2023-10-09 20:59:58 --> Severity: Warning --> Undefined array key "PayeeUniqueId" /var/www/devapi.uatesting.in/application/controllers/Schemes.php 147
+ERROR - 2023-10-09 21:04:21 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-09 21:04:21 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-09 21:04:21 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-09 21:04:21 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-09 21:04:33 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-09 21:04:33 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969
+ERROR - 2023-10-09 21:04:33 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 968
+ERROR - 2023-10-09 21:04:33 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 969

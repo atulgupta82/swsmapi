@@ -1,0 +1,28 @@
+ERROR - 2023-07-28 07:42:09 --> 404 Page Not Found: /index
+ERROR - 2023-07-28 19:22:40 --> Severity: Warning --> Attempt to read property "financial_year" on array /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 51
+ERROR - 2023-07-28 19:23:06 --> Severity: Warning --> Undefined property: stdClass::$sanction_order_no /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 51
+ERROR - 2023-07-28 19:23:52 --> Severity: Warning --> Undefined array key "sanction_order" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 62
+ERROR - 2023-07-28 19:27:31 --> 404 Page Not Found: Sanctions_order/sanction_order
+ERROR - 2023-07-28 19:27:56 --> 404 Page Not Found: Sanctions_order/sanction_order
+ERROR - 2023-07-28 19:28:19 --> 404 Page Not Found: Sanctions_order/sanction_order
+ERROR - 2023-07-28 19:28:39 --> 404 Page Not Found: Sanctions_order/sanction_order
+ERROR - 2023-07-28 19:29:06 --> 404 Page Not Found: Sanctions_order/sanction_order
+ERROR - 2023-07-28 19:30:00 --> 404 Page Not Found: Sanctions_order/sanction_order
+ERROR - 2023-07-28 19:30:27 --> 404 Page Not Found: Sanctions_order/sanction_order
+ERROR - 2023-07-28 19:30:39 --> 404 Page Not Found: Sanctions_order/sanction_order
+ERROR - 2023-07-28 19:30:48 --> 404 Page Not Found: Sanctions_order/sanction_order
+ERROR - 2023-07-28 19:30:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-07-28 19:31:51 --> Severity: Warning --> Undefined array key "sanction_order" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 62
+ERROR - 2023-07-28 19:40:11 --> Severity: Warning --> Undefined array key "sanction_order" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 62
+ERROR - 2023-07-28 19:53:50 --> Severity: Warning --> Undefined array key "sanction_order" /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 62
+ERROR - 2023-07-28 20:11:21 --> Severity: Warning --> Attempt to read property "voucher_no" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 78
+ERROR - 2023-07-28 20:11:47 --> Severity: error --> Exception: Cannot access offset of type string on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 78
+ERROR - 2023-07-28 20:12:24 --> Severity: error --> Exception: Cannot access offset of type string on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 78
+ERROR - 2023-07-28 20:12:38 --> Severity: Warning --> Attempt to read property "voucher_no" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 78
+ERROR - 2023-07-28 20:13:05 --> Severity: Warning --> Attempt to read property "voucher_no" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 78
+ERROR - 2023-07-28 20:13:53 --> Severity: Warning --> Attempt to read property "voucher_no" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 78
+ERROR - 2023-07-28 20:22:43 --> Severity: Warning --> Attempt to read property "voucher" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 78
+ERROR - 2023-07-28 20:23:23 --> Severity: Warning --> Attempt to read property "voucher" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 78
+ERROR - 2023-07-28 20:44:43 --> Severity: Warning --> Attempt to read property "voucher" on string /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 78
+ERROR - 2023-07-28 20:55:22 --> 404 Page Not Found: /index
+ERROR - 2023-07-28 23:37:56 --> Severity: Warning --> Undefined variable $object /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 116

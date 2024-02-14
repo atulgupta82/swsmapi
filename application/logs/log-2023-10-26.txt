@@ -1,0 +1,61 @@
+ERROR - 2023-10-26 01:00:06 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-10-26 01:00:06 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-10-26 01:00:06 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-10-26 01:00:50 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-10-26 01:00:50 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-10-26 01:00:50 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-10-26 15:41:08 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-10-26 15:41:08 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-10-26 15:41:08 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 319
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 320
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 321
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 322
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "supporting_docs" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 323
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 348
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 349
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 350
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 351
+ERROR - 2023-10-26 15:50:03 --> Severity: Warning --> Undefined array key "invoice_ref" /var/www/devapi.uatesting.in/application/controllers/Sanctions_order.php 352
+ERROR - 2023-10-26 16:05:49 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-10-26 16:05:49 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-10-26 19:24:37 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-10-26 19:24:37 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-10-26 19:24:37 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-10-26 19:43:34 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-10-26 19:43:34 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-10-26 19:43:34 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-10-26 19:54:25 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-10-26 19:54:25 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-10-26 19:54:45 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-10-26 19:54:45 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-10-26 19:54:53 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-10-26 19:54:53 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-10-26 19:55:00 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-10-26 19:55:00 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-10-26 19:55:03 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-10-26 19:55:03 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-10-26 21:34:43 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-10-26 21:34:43 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-10-26 21:34:43 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-10-26 21:54:43 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-10-26 21:54:43 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-10-26 21:54:43 --> Severity: Warning --> Attempt to read property "scheme_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 972
+ERROR - 2023-10-26 21:54:43 --> Severity: Warning --> Attempt to read property "subhead_id" on array /var/www/devapi.uatesting.in/application/controllers/Schemes.php 973
+ERROR - 2023-10-26 22:06:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-10-26 22:07:37 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2023-10-26 22:07:37 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 285
+ERROR - 2023-10-26 22:07:37 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 288
+ERROR - 2023-10-26 22:24:24 --> Severity: Warning --> Undefined variable $res /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208
+ERROR - 2023-10-26 22:24:24 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208
+ERROR - 2023-10-26 22:24:24 --> Severity: error --> Exception: Attempt to assign property "scheme_list" on null /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 209
+ERROR - 2023-10-26 22:27:48 --> Severity: Warning --> Undefined variable $res /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208
+ERROR - 2023-10-26 22:27:48 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208
+ERROR - 2023-10-26 22:28:39 --> Severity: Warning --> Undefined variable $res /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208
+ERROR - 2023-10-26 22:28:39 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208
+ERROR - 2023-10-26 22:28:39 --> Severity: Warning --> Undefined variable $res /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 210
+ERROR - 2023-10-26 22:28:39 --> Severity: Warning --> Attempt to read property "vendor_id" on null /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 210
+ERROR - 2023-10-26 22:30:40 --> Severity: Warning --> Undefined variable $res /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208
+ERROR - 2023-10-26 22:30:40 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208
+ERROR - 2023-10-26 22:30:53 --> Severity: Warning --> Undefined variable $res /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208
+ERROR - 2023-10-26 22:30:53 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/models/Sanctions_order_model.php 208

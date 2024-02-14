@@ -1,0 +1,6 @@
+ERROR - 2023-07-25 01:09:14 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 119
+ERROR - 2023-07-25 22:25:57 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 119
+ERROR - 2023-07-25 22:26:52 --> Severity: Warning --> Undefined array key "attachment" /var/www/api.uatesting.in/application/controllers/Schemes.php 261
+ERROR - 2023-07-25 22:59:35 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 117
+ERROR - 2023-07-25 22:59:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-07-25 23:00:26 --> Severity: Warning --> Undefined array key "letter_head" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 69

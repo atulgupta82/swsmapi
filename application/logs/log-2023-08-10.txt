@@ -1,0 +1,57 @@
+ERROR - 2023-08-10 04:13:37 --> 404 Page Not Found: /index
+ERROR - 2023-08-10 13:23:11 --> 404 Page Not Found: /index
+ERROR - 2023-08-10 13:24:13 --> 404 Page Not Found: /index
+ERROR - 2023-08-10 19:58:17 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 19:58:42 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:10:52 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:10:56 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:11:28 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:12:12 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:13:07 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:13:14 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:13:36 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:14:14 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:14:48 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:15:15 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:17:37 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:19:33 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:30:55 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 20:38:46 --> Severity: Warning --> Array to string conversion /var/www/api.uatesting.in/application/controllers/XmlController.php 37
+ERROR - 2023-08-10 20:38:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-10 20:46:28 --> 404 Page Not Found: /index
+ERROR - 2023-08-10 20:46:29 --> 404 Page Not Found: /index
+ERROR - 2023-08-10 20:48:04 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:00:12 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:00:32 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:01:27 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:02:36 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:03:25 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:04:23 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:05:03 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:05:27 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:06:05 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:10:22 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 21:58:43 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:03:56 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:14:38 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:14:58 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:27:19 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:41:39 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:42:46 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:43:22 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:43:56 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:44:38 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:46:10 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:48:25 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:48:48 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:50:51 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 22:57:53 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 23:00:15 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 23:01:23 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 23:02:16 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 23:03:14 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 23:03:38 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 23:04:34 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 23:17:01 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 23:21:24 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353
+ERROR - 2023-08-10 23:22:31 --> Severity: Warning --> Undefined property: stdClass::$date /var/www/api.uatesting.in/application/controllers/Schemes.php 353

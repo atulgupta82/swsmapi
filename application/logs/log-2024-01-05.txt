@@ -1,0 +1,5 @@
+ERROR - 2024-01-05 14:59:40 --> Severity: Warning --> Attempt to read property "id" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 283
+ERROR - 2024-01-05 14:59:40 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 284
+ERROR - 2024-01-05 14:59:40 --> Severity: Warning --> Attempt to read property "identifier" on null /var/www/devapi.uatesting.in/application/controllers/Users.php 287
+ERROR - 2024-01-05 20:45:03 --> 404 Page Not Found: /index
+ERROR - 2024-01-05 21:04:26 --> 404 Page Not Found: /index

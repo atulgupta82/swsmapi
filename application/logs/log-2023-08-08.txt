@@ -1,0 +1,13 @@
+ERROR - 2023-08-08 00:06:51 --> 404 Page Not Found: Beneficiary/beneficiary
+ERROR - 2023-08-08 00:13:54 --> Severity: Warning --> Undefined property: stdClass::$is_agrement_available /var/www/api.uatesting.in/application/controllers/Beneficiary.php 119
+ERROR - 2023-08-08 00:13:54 --> Severity: Warning --> Undefined array key "contract_copy" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 126
+ERROR - 2023-08-08 00:13:54 --> Severity: Warning --> Undefined array key "reg_cert" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 130
+ERROR - 2023-08-08 00:13:54 --> Severity: Warning --> Undefined array key "pan_card" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 134
+ERROR - 2023-08-08 00:13:54 --> Severity: Warning --> Undefined array key "authority_letter" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 138
+ERROR - 2023-08-08 00:13:54 --> Severity: Warning --> Undefined array key "letter_head" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 142
+ERROR - 2023-08-08 00:13:54 --> Severity: Warning --> Undefined array key "cancel_cheque" /var/www/api.uatesting.in/application/controllers/Beneficiary.php 146
+ERROR - 2023-08-08 12:47:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-08 12:59:09 --> 404 Page Not Found: /index
+ERROR - 2023-08-08 12:59:10 --> 404 Page Not Found: /index
+ERROR - 2023-08-08 13:03:13 --> Severity: Warning --> Undefined property: stdClass::$added_by /var/www/api.uatesting.in/application/controllers/Sanctions_order.php 72
+ERROR - 2023-08-08 16:14:31 --> Severity: Warning --> Undefined property: stdClass::$user_name /var/www/api.uatesting.in/application/controllers/Users.php 94
